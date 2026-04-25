@@ -1,7 +1,5 @@
 # ISObuddy — ISO 27001:2022 Lead Implementor Toolkit
 
-# claude --resume "iso27001-toolkit-build"
-
 Practical field toolkit for ISO 27001:2022 consulting engagements. Every template contains real content. Every checklist references the actual clause or Annex A control it covers. Built for startups: cloud-native, fast-moving, resource-constrained.
 
 ---
